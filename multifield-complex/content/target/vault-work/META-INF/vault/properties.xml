@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>multifield-complex Package</comment>
+<entry key="createdBy">JTriemstra</entry>
+<entry key="name">multifield-complex-content</entry>
+<entry key="created">2017-11-30T20:38:16.519-0500</entry>
+<entry key="groupId">com.test-projects</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">Test Projects</entry>
+<entry key="description">Maven Multimodule project for multifield-complex.</entry>
+<entry key="artifactId">multifield-complex-content</entry>
+<entry key="path">/etc/packages/Test Projects/multifield-complex-content.zip</entry>
+</properties>

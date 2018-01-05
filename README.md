@@ -1,0 +1,1 @@
+This is POC project for testing how the "composite" property of a dialog multifield works in different versions of AEM. It appears to have been introduced in 6.3.
